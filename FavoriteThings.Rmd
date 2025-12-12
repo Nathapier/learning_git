@@ -1,14 +1,14 @@
 ---
 title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+author: "Nathaniel Pierce"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - Creative Writing, Reading
+ - Piano music, generally
+ - High-speed rail & public transit (Not necessarily the Florida kind.)
+ - Weighted Blankets
 
-🍴
+⚓
